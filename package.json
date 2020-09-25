@@ -1,0 +1,25 @@
+{
+  "name": "latest-release-svg-github",
+  "version": "1.0.0",
+  "description": "App to load create an SVG that shows the tag name of the latest release of a GitHub repository",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/degrootruben/latest-release-svg-github.git"
+  },
+  "keywords": [
+    "github",
+    "api",
+    "svg",
+    "release"
+  ],
+  "author": "Ruben de Groot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/degrootruben/latest-release-svg-github/issues"
+  },
+  "homepage": "https://github.com/degrootruben/latest-release-svg-github#readme"
+}
