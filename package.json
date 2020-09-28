@@ -1,6 +1,6 @@
 {
   "name": "latest-release-svg-github",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "App to load create an SVG that shows the tag name of the latest release of a GitHub repository",
   "main": "index.js",
   "scripts": {
